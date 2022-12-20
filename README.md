@@ -1,4 +1,5 @@
 # DRAO [Fall 2022]
+# Collaborators: Susan Clark (PI - Stanford University), Gilles Joncas (Laval University), Kirill Tchernyshyov (University of Washington)
 
 This quarter, I switched gears from working with GASKAP-HI data to continuing an investigation piloted by one of Gilles’s previous students, 
 which involved DRAO HI and IR emission data. My research this quarter probed the following:
